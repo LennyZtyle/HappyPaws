@@ -3,8 +3,6 @@ package com.happypaws.happypaws
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
 import android.widget.EditText
-import android.widget.TextView
-import android.widget.Toast
 import com.happypaws.login.LoginController
 import kotlinx.android.synthetic.main.activity_main.*
 
